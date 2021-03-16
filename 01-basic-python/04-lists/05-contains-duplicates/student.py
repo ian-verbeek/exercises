@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def contains_duplicates(xs):
     i = 0
     while i < len(xs):
@@ -13,3 +14,6 @@ def contains_duplicates(xs):
     
     return False
             
+=======
+# gemaakt op pc
+>>>>>>> 6b67f39ea963ddbbb6bfabf70e9c3fbc0dd42244
