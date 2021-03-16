@@ -1,1 +1,3 @@
-# gemaakt op pc
+def square(x):
+    return x*x
+
